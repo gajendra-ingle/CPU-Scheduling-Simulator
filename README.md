@@ -48,4 +48,4 @@ Follow these instructions to get the project up and running on your local machin
 
 <hr>
 
-**Note**: This is a comprehensive template. Customize it further based on your specific project details and requirements.
+
