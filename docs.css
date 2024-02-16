@@ -3,7 +3,7 @@
     height: auto;
     padding-top:50px;
     text-align: center;
-    background-color: rgb(225, 231, 231);
+    background-color: #FFB6C1;
     border-radius: 10px;
     width: 80%;
     margin-left:auto;
@@ -39,7 +39,7 @@
 }
 
 .container_docs blod{
-    font-weight: 900;
+    font-weight: 500;
 }
 
 .container_docs:hover{
