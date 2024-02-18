@@ -43,7 +43,6 @@ Follow these instructions to get the project up and running on your local machin
     ```bash
     https://github.com/gajendra-ingle/Frontend-Final-year-project.git
     
-
 2. Open `index.html` in your browser.
 
 <hr>
