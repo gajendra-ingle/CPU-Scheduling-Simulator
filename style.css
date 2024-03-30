@@ -9,7 +9,7 @@
 .header{
     min-height: 100vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(about_img/main_bg.JPG);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/main-bg.png);
     background-size:cover;
     background-position: center;
     position:relative;
@@ -197,7 +197,7 @@ p{
 
 .course-colomn{
     flex-basis: 31%;
-    background: #FFB6C1;
+    background: #8AAAE5;
     border-radius: 10px;
     margin-bottom:5%;
     padding:20px 12px;
@@ -307,51 +307,8 @@ h3{
     text-align: left;
 }
 
-.testimonials{
-    width: 80%;
-    margin:auto;
-    border-bottom: 1px solid rgba(0,0,0,0.6);
-    padding-top: 100px;
-    text-align: center;
-}
-
-.testimonial-call{
-    flex-basis:44%;
-    border-radius:10px;
-    margin-bottom:5%;
-    text-align:left;
-    background:#f0bebe;
-    padding:25px;
-    display:flex;
-    cursor: pointer;
-}
-
-.testimonial-call img{
-    height: 40px;
-    margin-left:5px;
-    margin-right: 30px;
-    border-radius:50%;
-}
-
-.testimonial-call p{
-    padding:0;
-}
-
-.testimonial-call h3{
-    margin-top:15px;
-    text-align: left;
-}
-
-.testimonial-call .fas{
-    color:#f44336
-}
 
 @media only screen and (max-width:730px){
-    .testimonial-call img{
-        margin-left:5px;
-        margin-right:30px;
-    }
-
     .cta h1{
         font-size:25px;
     }
@@ -360,8 +317,8 @@ h3{
 .cta{
     margin:100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(about_img/banner2.JPG);
-    background-position:center;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/images/banner.jpg);
+    /* background-position:center; */
     background-size:cover;
     border-radius: 10px;
     padding:100px 0;
@@ -388,7 +345,7 @@ h3{
 }
 
 .icons .fab{
-    color:#f44336;
+    color: #f44336;
     margin:5px 13px;
     cursor:pointer;
     padding:10px 0;
@@ -402,7 +359,7 @@ h3{
 .sub-header{
     height:50vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/vecteezy_technology-background_ma1220.JPG);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/header-banner.jpg);
     background-position: center;
     background-size: cover;
     text-align:center;
@@ -456,7 +413,7 @@ h3{
 
 .container_1{
     text-align: center;
-    background:#eceaea;
+    background:#fff;
 }
 
 .header_1{
